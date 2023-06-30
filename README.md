@@ -5,7 +5,7 @@ Link to the generator: https://carolwu.shinyapps.io/PlotWebPage/ <br />
 1. Compile segementation statistic from 3D Slicer in example dataset format: <br />
    a. see patient1.csv for all segments  <br />
    b. see patient1_malperfused.csv for malperfused area  <br />
-2. Upload these two csv files to the Perthes Plot Generator webpage  <br />
+2. Upload these two csv files to the Perthes Plot Generator webpage and enter patient id for the plot title (example: "Patient 1")  <br />
 3. Plots are automatically generated in tabpanels <br />
 ## Notes
 1. Without user input the Perthes Plot Generator will use the example datasets to generate plots.  <br />
